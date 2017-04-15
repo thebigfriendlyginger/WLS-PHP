@@ -70,6 +70,20 @@
             
         </div>
       </form>
+<?php
+$('signup login-button').click(function() {
+
+ $.ajax({
+  type: "POST",
+  url: "create_account.php",
+  data: { }
+}).done(function( msg ) {
+  alert( "Data Saved: " + msg );
+});
+
+    });
+  ?>
+
     <div class="text-right">
             
         </div>
