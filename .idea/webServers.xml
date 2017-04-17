@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="224a2f22-b418-4371-a5f9-2f378677dae1" name="localhost" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="C:\Users\Jake\Desktop\WLS-PHP\WLS-PHP" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94bc1c36-bb73-4fb4-ac2f-742b4346e9a8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/create-account.html" afterPath="$PROJECT_DIR$/create-account.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/create_account.php" afterPath="$PROJECT_DIR$/create_account.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/account-confirmation.html" afterPath="$PROJECT_DIR$/account-confirmation.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,8 +31,8 @@
       <file leaf-file-name="create_account.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/create_account.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-450">
-              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="-425">
+              <caret line="4" column="74" lean-forward="true" selection-start-line="4" selection-start-column="74" selection-end-line="4" selection-end-column="74" />
               <folding>
                 <element signature="e#1281#1380#0#PHP" expanded="true" />
                 <marker date="1492396166719" expanded="true" signature="1809:2010" ph="INSERT INTO USERS... " />
@@ -81,8 +79,8 @@
       <file leaf-file-name="account-confirmation.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/account-confirmation.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1135">
-              <caret line="47" column="10" lean-forward="true" selection-start-line="34" selection-start-column="2" selection-end-line="47" selection-end-column="10" />
+            <state relative-caret-position="3550">
+              <caret line="142" column="0" lean-forward="false" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -110,13 +108,13 @@
       <list>
         <option value="$PROJECT_DIR$/application-index.html" />
         <option value="$PROJECT_DIR$/create-application.html" />
-        <option value="$PROJECT_DIR$/account-confirmation.html" />
         <option value="$PROJECT_DIR$/add-miles.html" />
         <option value="$PROJECT_DIR$/clock-in.html" />
         <option value="$PROJECT_DIR$/applicant/navigation.html" />
         <option value="$USER_HOME$/Downloads/inClass/inClass/phpexample1.php" />
         <option value="$PROJECT_DIR$/create-account.html" />
         <option value="$PROJECT_DIR$/create_account.php" />
+        <option value="$PROJECT_DIR$/account-confirmation.html" />
       </list>
     </option>
   </component>
@@ -171,7 +169,7 @@
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="SearchEverywhereHistoryKey" value="data&#9;ACTION&#9;ActivateDatabaseToolWindow" />
+    <property name="SearchEverywhereHistoryKey" value="depl&#9;ACTION&#9;QuickList.Deployment&#10;data&#9;ACTION&#9;ActivateDatabaseToolWindow" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
   </component>
   <component name="RunDashboard">
@@ -186,11 +184,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.create_account.php">
+  <component name="RunManager" selected="JavaScript Debug.account-confirmation.html (1)">
     <configuration default="false" name="account-confirmation.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:49308/WLS/account-confirmation.html">
       <method />
     </configuration>
     <configuration default="false" name="create_account.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WLS-PHP/create_account.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="account-confirmation.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/WLS-PHP/account-confirmation.html">
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
@@ -249,14 +250,16 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.account-confirmation.html" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.create_account.php" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.account-confirmation.html (1)" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.create_account.php" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.account-confirmation.html" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.account-confirmation.html (1)" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.create_account.php" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.account-confirmation.html" />
       </list>
     </recent_temporary>
   </component>
@@ -275,12 +278,12 @@
       <updated>1492011978897</updated>
       <workItem from="1492011982308" duration="4260000" />
       <workItem from="1492214877143" duration="17231000" />
-      <workItem from="1492381029050" duration="11019000" />
+      <workItem from="1492381029050" duration="13057000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32510000" />
+    <option name="totallyTimeSpent" value="34548000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -659,14 +662,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/account-confirmation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1135">
-          <caret line="47" column="10" lean-forward="true" selection-start-line="34" selection-start-column="2" selection-end-line="47" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Downloads/inClass/inClass/emailForm.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -696,10 +691,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/account-confirmation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3550">
+          <caret line="142" column="0" lean-forward="false" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/create_account.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-450">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="-425">
+          <caret line="4" column="74" lean-forward="true" selection-start-line="4" selection-start-column="74" selection-end-line="4" selection-end-column="74" />
           <folding>
             <element signature="e#1281#1380#0#PHP" expanded="true" />
             <marker date="1492396166719" expanded="true" signature="1809:2010" ph="INSERT INTO USERS... " />
